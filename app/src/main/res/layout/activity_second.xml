@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AngkaActivity"
+    android:background="@drawable/no3">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/salah6"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="50dp"
+                android:textColor="@android:color/white"
+                android:text="9"
+                android:backgroundTint="@color/colorPrimary"/>
+
+            <Button
+                android:id="@+id/salah8"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="50dp"
+                android:textColor="@android:color/white"
+                android:text="4"
+                android:backgroundTint="@color/colorPrimary"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/salah7"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="50dp"
+                android:textColor="@android:color/white"
+                android:text="7"
+                android:backgroundTint="@color/colorPrimary"/>
+
+            <Button
+                android:id="@+id/benar2"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="50dp"
+                android:textColor="@android:color/white"
+                android:text="8"
+                android:backgroundTint="@color/colorPrimary"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>
