@@ -22,7 +22,7 @@
         <activity android:name="com.dicoding.MariBerhitung.QuisActivity" />
         <activity android:name="com.dicoding.MariBerhitung.PuzzleActivity" />
         <activity android:name="com.dicoding.MariBerhitung.FirstActivity" />
-        <activity android:name="com.dicoding.MariBerhitung.NumberTwoActivity"></activity>
+        <activity android:name="com.dicoding.MariBerhitung.NumberTwoActivity"/>
     </application>
 
 </manifest>

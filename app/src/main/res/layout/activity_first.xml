@@ -37,7 +37,7 @@
                 android:textSize="50dp"
                 android:textColor="@android:color/white"
                 android:text="2"
-                android:backgroundTint="@color/colorPrimary"/>
+                android:background="@drawable/button"/>
 
             <Button
                 android:id="@+id/jawaban"
@@ -47,7 +47,7 @@
                 android:textSize="50dp"
                 android:textColor="@android:color/white"
                 android:text="1"
-                android:backgroundTint="@color/colorPrimary"/>
+                android:background="@drawable/button"/>
 
         </LinearLayout>
 
@@ -65,7 +65,7 @@
                 android:textSize="50dp"
                 android:textColor="@android:color/white"
                 android:text="0"
-                android:backgroundTint="@color/colorPrimary"/>
+                android:background="@drawable/button"/>
 
             <Button
                 android:id="@+id/salah5"
@@ -75,7 +75,7 @@
                 android:textSize="50dp"
                 android:textColor="@android:color/white"
                 android:text="3"
-                android:backgroundTint="@color/colorPrimary"/>
+                android:background="@drawable/button"/>
 
         </LinearLayout>
 
